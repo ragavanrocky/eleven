@@ -6,3 +6,4 @@ for g in range(len(a)):
   if(a[g]!=b[g]):
     char=char+1
 print(char)
+fsdgsg
